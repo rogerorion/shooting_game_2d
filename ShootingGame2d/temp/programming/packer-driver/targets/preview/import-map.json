@@ -1,0 +1,51 @@
+{
+  "imports": {
+    "cce:/internal/x/cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js",
+    "cce:/internal/x/prerequisite-imports": "./chunks/e6/e690d8d21c3264f88cef1049bc05ae341c5f161a.js",
+    "file:///D:/cocos-dashboard-editors/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/94/949aa977f693add8d442abcdb31a496ddf72801c.js",
+    "file:///D:/indie_games/project1/shooting_game_2d/ShootingGame2d/assets/script/game.ts": "./chunks/82/8261dc00a282b54a9ccc3513f981534e30a56d3a.js",
+    "file:///D:/indie_games/project1/shooting_game_2d/ShootingGame2d/assets/script/gameController.ts": "./chunks/df/dfad53434709ad6559c5c83903091e5a6b31e3b9.js",
+    "file:///D:/indie_games/project1/shooting_game_2d/ShootingGame2d/assets/script/hero.ts": "./chunks/fb/fb28c8d7cd03555484abdc346186dd545f686d6f.js"
+  },
+  "scopes": {
+    "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js": {
+      "__unresolved_0": "cce:/internal/x/cc-fu/2d",
+      "__unresolved_1": "cce:/internal/x/cc-fu/sorting",
+      "__unresolved_10": "cce:/internal/x/cc-fu/physics-2d-box2d",
+      "__unresolved_11": "cce:/internal/x/cc-fu/physics-2d-framework",
+      "__unresolved_12": "cce:/internal/x/cc-fu/profiler",
+      "__unresolved_13": "cce:/internal/x/cc-fu/spine",
+      "__unresolved_14": "cce:/internal/x/cc-fu/tiled-map",
+      "__unresolved_15": "cce:/internal/x/cc-fu/tween",
+      "__unresolved_16": "cce:/internal/x/cc-fu/ui",
+      "__unresolved_17": "cce:/internal/x/cc-fu/video",
+      "__unresolved_18": "cce:/internal/x/cc-fu/webview",
+      "__unresolved_2": "cce:/internal/x/cc-fu/animation",
+      "__unresolved_3": "cce:/internal/x/cc-fu/audio",
+      "__unresolved_4": "cce:/internal/x/cc-fu/base",
+      "__unresolved_5": "cce:/internal/x/cc-fu/dragon-bones",
+      "__unresolved_6": "cce:/internal/x/cc-fu/gfx-webgl",
+      "__unresolved_7": "cce:/internal/x/cc-fu/gfx-webgl2",
+      "__unresolved_8": "cce:/internal/x/cc-fu/intersection-2d",
+      "__unresolved_9": "cce:/internal/x/cc-fu/particle-2d"
+    },
+    "./chunks/e6/e690d8d21c3264f88cef1049bc05ae341c5f161a.js": {
+      "__unresolved_0": "./chunks/94/949aa977f693add8d442abcdb31a496ddf72801c.js",
+      "__unresolved_1": "./chunks/82/8261dc00a282b54a9ccc3513f981534e30a56d3a.js",
+      "__unresolved_2": "./chunks/df/dfad53434709ad6559c5c83903091e5a6b31e3b9.js",
+      "__unresolved_3": "./chunks/fb/fb28c8d7cd03555484abdc346186dd545f686d6f.js"
+    },
+    "./chunks/fb/fb28c8d7cd03555484abdc346186dd545f686d6f.js": {
+      "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
+    },
+    "./chunks/df/dfad53434709ad6559c5c83903091e5a6b31e3b9.js": {
+      "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
+    },
+    "./chunks/82/8261dc00a282b54a9ccc3513f981534e30a56d3a.js": {
+      "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
+    },
+    "./chunks/94/949aa977f693add8d442abcdb31a496ddf72801c.js": {
+      "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
+    }
+  }
+}

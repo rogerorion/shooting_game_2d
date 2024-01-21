@@ -1,0 +1,1115 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res.meta": {
+      "time": 1705742166470.4175
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res": {
+      "time": 1705816062641.5667,
+      "uuid": "6fb6bc8e-fc7e-49f7-9457-bcec5617db68"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders.meta": {
+      "time": 1705743168326.2273
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\builtin-sprite-with-tile.effect.meta": {
+      "time": 1705743168348.7014
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders": {
+      "time": 1705746970584.863,
+      "uuid": "f74ed4f9-0fb4-425e-8676-7243089e5fb7"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\crosshair.meta": {
+      "time": 1705743168349.6973
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\crosshair\\crosshair091.png.meta": {
+      "time": 1705743168362.351
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\materials.meta": {
+      "time": 1705743168362.351
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\materials\\sprite-with-flip.effect.meta": {
+      "time": 1705743168373.9275
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\materials\\enemy-material.mtl.meta": {
+      "time": 1705743168375.9985
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation.meta": {
+      "time": 1705743168375.9985
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy.meta": {
+      "time": 1705743168377.048
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player.meta": {
+      "time": 1705743168377.048
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui.meta": {
+      "time": 1705743168522.3164
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls.meta": {
+      "time": 1705743168523.366
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\material.meta": {
+      "time": 1705743168524.4421
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Btn.png.meta": {
+      "time": 1705743168537.4238
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Icon_ZZ.png.meta": {
+      "time": 1705743168551.554
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\JDT.png.meta": {
+      "time": 1705743168562.1152
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\JDT_BG.png.meta": {
+      "time": 1705743168572.566
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Move01.png.meta": {
+      "time": 1705743168590.677
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Move02.png.meta": {
+      "time": 1705743168603.802
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls\\A.png.meta": {
+      "time": 1705743168614.7812
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls\\B.png.meta": {
+      "time": 1705743168624.1416
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls\\X.png.meta": {
+      "time": 1705743168635.8862
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls\\Y.png.meta": {
+      "time": 1705743168646.3716
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\material\\hp-bg.mtl.meta": {
+      "time": 1705743168653.833
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\material\\hp.mtl.meta": {
+      "time": 1705743168653.833
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor.meta": {
+      "time": 1705743168649.4822
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7.meta": {
+      "time": 1705743168649.4822
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4.meta": {
+      "time": 1705743168650.6147
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7.meta": {
+      "time": 1705743168651.624
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_0.png.meta": {
+      "time": 1705743168681.7466
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_1.png.meta": {
+      "time": 1705743168676.3152
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_2.png.meta": {
+      "time": 1705743168675.312
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_3.png.meta": {
+      "time": 1705743168677.3198
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_4.png.meta": {
+      "time": 1705743168679.5176
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_5.png.meta": {
+      "time": 1705743168700.456
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_6.png.meta": {
+      "time": 1705743168702.526
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_0.png.meta": {
+      "time": 1705743168704.5664
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_1.png.meta": {
+      "time": 1705743168706.641
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_2.png.meta": {
+      "time": 1705743168703.5417
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_3.png.meta": {
+      "time": 1705743168727.3413
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_0.png.meta": {
+      "time": 1705743168730.6987
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_1.png.meta": {
+      "time": 1705743168729.3867
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_2.png.meta": {
+      "time": 1705743168731.7288
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_3.png.meta": {
+      "time": 1705743168732.732
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_4.png.meta": {
+      "time": 1705743168747.6714
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_5.png.meta": {
+      "time": 1705743168748.6826
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_6.png.meta": {
+      "time": 1705743168749.8018
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\builtin-sprite-with-tile.effect": {
+      "time": 1705742660267.0383,
+      "uuid": "2180ca15-9dae-4aaf-854b-400b1279aaba"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\crosshair": {
+      "time": 1705743168328.2222,
+      "uuid": "7976a8e6-7f1a-4a95-b4ce-8d52ad6ead92"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\crosshair\\crosshair091.png": {
+      "time": 1705742660224.8213,
+      "uuid": "74f82499-8bed-4607-847c-e5096223edc0"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\materials": {
+      "time": 1705743168330.216,
+      "uuid": "a9d96d35-2183-4504-8ac1-1d8e7b0a50ed"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\materials\\sprite-with-flip.effect": {
+      "time": 1705742660251.8538,
+      "uuid": "14e6fcdb-f171-44c4-9042-2e69f079b778"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\materials\\enemy-material.mtl": {
+      "time": 1705742660238.9856,
+      "uuid": "ed9a0024-8ee1-48ad-8d2e-8714a0a90329"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation": {
+      "time": 1705743168332.2068,
+      "uuid": "7a8abef4-6591-4483-81c4-d403a841b328"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy": {
+      "time": 1705749186201.2642,
+      "uuid": "8eed1be8-64d3-493a-891f-d3c12ec5bcbb"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player": {
+      "time": 1705746469134.478,
+      "uuid": "26bdf9e0-506c-4384-9a21-98cd3b5692a3"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui": {
+      "time": 1705743168339.1743,
+      "uuid": "a75c2b60-b809-4f20-8261-a615c7933a50"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls": {
+      "time": 1705743168340.2246,
+      "uuid": "0e31251e-c246-4702-9bad-3e4b42d39ac0"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\material": {
+      "time": 1705743168341.2136,
+      "uuid": "81c65cba-902d-41fe-9ddc-67a72252b2ce"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Btn.png": {
+      "time": 1705742660446.066,
+      "uuid": "bbf394ef-2edb-41df-be0b-ca1fbda29e3a"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Icon_ZZ.png": {
+      "time": 1705742660459.3828,
+      "uuid": "55886e44-25eb-459c-9004-67ca340a28b9"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\JDT.png": {
+      "time": 1705742660472.5356,
+      "uuid": "e32c1876-afa6-4b0a-9af4-b692c38e379f"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\JDT_BG.png": {
+      "time": 1705742660484.886,
+      "uuid": "9329bf57-9464-45b2-bfca-8bea4ef2d4f0"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Move01.png": {
+      "time": 1705742660497.321,
+      "uuid": "8acb340a-efe2-4d7e-80d4-58e68b7d588e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Move02.png": {
+      "time": 1705742660510.2217,
+      "uuid": "bc4f1969-19ef-477b-a765-c52c6ab8828f"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls\\A.png": {
+      "time": 1705742660537.1914,
+      "uuid": "51bd48db-6f12-41e2-a53d-3902b8ddf0be"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls\\B.png": {
+      "time": 1705742660549.1401,
+      "uuid": "9a61c7b1-acb4-4cc2-aefc-907c811b3438"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls\\X.png": {
+      "time": 1705742660562.094,
+      "uuid": "33dabe7b-52d6-4225-a4d3-5e20337ff336"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\controls\\Y.png": {
+      "time": 1705742660575.0425,
+      "uuid": "81dccb39-f8e1-4e3c-897d-977e48bfa6df"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor": {
+      "time": 1705743168342.2102,
+      "uuid": "d5649451-7cab-43e6-bdef-f8f208f9c029"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7": {
+      "time": 1705743168345.2935,
+      "uuid": "d7214677-63b4-4c7e-a661-2d12c4984d16"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4": {
+      "time": 1705743168346.3503,
+      "uuid": "384e7760-5aef-4caf-a94b-2a7d842c713b"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7": {
+      "time": 1705743168347.392,
+      "uuid": "59f83aee-b7b3-42bd-bda8-501dd0eb1709"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\material\\hp-bg.mtl": {
+      "time": 1705742660589.9941,
+      "uuid": "532adf61-38ec-408d-b48d-809f8c8dc536"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\material\\hp.mtl": {
+      "time": 1705742660600.9578,
+      "uuid": "d76b395f-f6ea-40dc-84b9-645f563308e3"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_2.png": {
+      "time": 1705742659952.8179,
+      "uuid": "5952c248-bd06-4c86-b65d-be7889126a6e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_1.png": {
+      "time": 1705742659940.8665,
+      "uuid": "d71944a7-2b49-44bd-9dc8-7a4ae025774e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_3.png": {
+      "time": 1705742659964.8347,
+      "uuid": "fa687f3c-83a5-4b19-b24f-a658ec40538b"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_4.png": {
+      "time": 1705742659975.7405,
+      "uuid": "e619c349-5b0d-4921-abde-1d4c27600604"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_0.png": {
+      "time": 1705742659928.8962,
+      "uuid": "d4503edf-35d7-4462-aa35-d50d3ab7eaf3"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_5.png": {
+      "time": 1705742659987.985,
+      "uuid": "10993ddc-04e7-4b00-838a-107640f470de"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sEnemy_strip7\\sEnemy_strip7_6.png": {
+      "time": 1705742659998.974,
+      "uuid": "6183a6e6-1b70-40f3-9e23-494cac3c2e7e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_2.png": {
+      "time": 1705742660037.1995,
+      "uuid": "810e6bec-7bac-4d65-a9e8-c59eb1162cef"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_0.png": {
+      "time": 1705742660013.8818,
+      "uuid": "c4c1394c-dd75-4364-a020-ea6753b4a26f"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_1.png": {
+      "time": 1705742660024.5613,
+      "uuid": "db3ecef9-cd36-4326-baab-9eedde0fad3e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_3.png": {
+      "time": 1705742660049.1675,
+      "uuid": "4e61351a-e388-46b6-854f-cff9ea42b715"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_1.png": {
+      "time": 1705742660077.0867,
+      "uuid": "e039d169-5a85-4e24-951b-83d5440d987e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_0.png": {
+      "time": 1705742660065.113,
+      "uuid": "d7d1da19-3af5-4099-b106-8378421ad6cb"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_2.png": {
+      "time": 1705742660088.8542,
+      "uuid": "fbb30ac0-4b28-498a-bd22-3e2049ec1880"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_3.png": {
+      "time": 1705742660100.1853,
+      "uuid": "d482ce75-e4c1-4048-ac17-65ffdaa151bc"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_4.png": {
+      "time": 1705742660111.834,
+      "uuid": "f1a25d4c-4e47-4465-97a0-c18ecf66f542"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_5.png": {
+      "time": 1705742660124.8513,
+      "uuid": "1336eccd-2df6-4c41-8009-1b7369d43702"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_6.png": {
+      "time": 1705742660136.7612,
+      "uuid": "62d14e8c-4c67-4a15-b48e-197e657cd9b2"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources.meta": {
+      "time": 1705743949611.6257
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources": {
+      "time": 1705743962404.9072,
+      "uuid": "770a3a3c-bc5e-4eba-bd30-ebbbaa271190"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor.meta": {
+      "time": 1705743962405.9038
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor": {
+      "time": 1705743991565.31,
+      "uuid": "4c282f6c-e164-47a0-9a1d-83636ef9f925"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab.meta": {
+      "time": 1705743980177.6592
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab": {
+      "time": 1705830245071.901,
+      "uuid": "d9b09275-a022-43f4-8104-8042914d3f29"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\idle.anim.meta": {
+      "time": 1705745951110.799
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\idle.anim": {
+      "time": 1705749523489.2153,
+      "uuid": "c0a8d047-6e5a-4f05-a645-dc9f85cdfd81"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\run.anim.meta": {
+      "time": 1705746204380.218
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\run.anim": {
+      "time": 1705749580526.223,
+      "uuid": "35fd584b-1617-423c-b875-23d23acf0805"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\die.anim.meta": {
+      "time": 1705746469137.4697
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\die.anim": {
+      "time": 1705749617682.6401,
+      "uuid": "9f2d89b8-b57b-4a7d-8ebd-8d1f28095619"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets.meta": {
+      "time": 1705743168389.1902
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets": {
+      "time": 1705743168337.1296,
+      "uuid": "7158156d-21e4-40c7-8a8e-851b5c479a6e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\aBullet.wav.meta": {
+      "time": 1705743168394.6948
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\aBullet.wav": {
+      "time": 1705742660284.8271,
+      "uuid": "8cfc7d0e-89d5-4f22-9238-4a5999725bff"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\aDeath.wav.meta": {
+      "time": 1705743168398.9585
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\aDeath.wav": {
+      "time": 1705742660309.469,
+      "uuid": "cc90009a-9d69-4365-b9bc-82c8bd6a0ab4"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sBg.png.meta": {
+      "time": 1705743168408.3882
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sBg.png": {
+      "time": 1705742660323.0718,
+      "uuid": "f4b80fef-ae6b-4fdf-aa0f-1cc70a3d5875"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sBullet.png.meta": {
+      "time": 1705743168419.7783
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sBullet.png": {
+      "time": 1705742660335.5935,
+      "uuid": "5257411f-a9b2-4a29-aec7-6b7b7d8a81f4"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sEnemyDead.png.meta": {
+      "time": 1705743168430.6033
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sEnemyDead.png": {
+      "time": 1705742660347.7695,
+      "uuid": "5024ffa1-7666-444c-8226-a40ff4d424a2"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sEnemy_strip7.png.meta": {
+      "time": 1705743168441.148
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sEnemy_strip7.png": {
+      "time": 1705742660363.3862,
+      "uuid": "88e8174c-6479-4099-8c6c-250ccac821a4"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sGun.png.meta": {
+      "time": 1705743168451.995
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sGun.png": {
+      "time": 1705742660376.3425,
+      "uuid": "005c46f8-2ef3-4242-a0f3-892f1e47b38b"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sPlayerRun_strip7.png.meta": {
+      "time": 1705743168500.2393
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sPlayerRun_strip7.png": {
+      "time": 1705742660417.137,
+      "uuid": "6b6fdfea-7847-44c1-8d4f-bcf2c7458db0"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sPlayerIdle_strip4.png.meta": {
+      "time": 1705743168488.8635
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sPlayerIdle_strip4.png": {
+      "time": 1705742660404.1746,
+      "uuid": "e51cf45d-ed5c-41e5-b9a1-be04ea753b0b"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sMap.png.meta": {
+      "time": 1705743168477.9734
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sMap.png": {
+      "time": 1705742660390.8306,
+      "uuid": "a2c1927e-b5ce-4ce8-aa20-60d5dc168300"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sWall.png.meta": {
+      "time": 1705743168521.3035
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\topdown_shooter_assets\\sWall.png": {
+      "time": 1705742660430.137,
+      "uuid": "74e7cba2-4480-4048-9a42-e862c12454e8"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy\\run.anim.meta": {
+      "time": 1705749186204.6223
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy\\run.anim": {
+      "time": 1705749772304.3125,
+      "uuid": "4659095b-abd0-49ef-9995-75f254963054"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Player.prefab.meta": {
+      "time": 1705749662315.5215
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Player.prefab": {
+      "time": 1705830766265.187,
+      "uuid": "9a2e7241-728b-4645-9510-52348a8000af"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Gun.prefab.meta": {
+      "time": 1705749888850.3376
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Gun.prefab": {
+      "time": 1705749888849.3604,
+      "uuid": "784c0d9a-f125-4e1b-bd00-1a72be5c6b13"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Enemy.prefab.meta": {
+      "time": 1705749893648.9587
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Enemy.prefab": {
+      "time": 1705749893647.95,
+      "uuid": "b34c6f36-6082-4314-ac9f-3ce5519184d4"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\scene.meta": {
+      "time": 1705750068457.7996
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\scene": {
+      "time": 1705816572758.826,
+      "uuid": "325d3ec5-f41d-4dc5-be97-d6c70d53ce00"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map.meta": {
+      "time": 1705816062642.9932
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map": {
+      "time": 1705816097019.38,
+      "uuid": "7dc02ec4-d8d6-468e-871c-e673c1ba2ad3"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\torch.png.meta": {
+      "time": 1705816073040.108
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\hero.plist.meta": {
+      "time": 1705816073079.8125
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\flag.png.meta": {
+      "time": 1705816073090.3787
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\hero.png.meta": {
+      "time": 1705816073102.059
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\Dungeon_Tileset.png.meta": {
+      "time": 1705816073116.2937
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\torch.png": {
+      "time": 1705769955852.6003,
+      "uuid": "b89ff52c-9f7c-4580-8880-8771266a65f9"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\hero.plist": {
+      "time": 1705769955889.9443,
+      "uuid": "3adf7e20-13fb-4dd1-9eec-66e5dacf1158"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\flag.png": {
+      "time": 1705769955834.2634,
+      "uuid": "e1dd61db-c858-4856-be20-67a512ca5b6a"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\hero.png": {
+      "time": 1705769955852.6003,
+      "uuid": "bdd451d7-3adc-49b9-9430-76b6ce04fc7e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\Dungeon_Tileset.png": {
+      "time": 1705769955815.0015,
+      "uuid": "4720c007-b4fe-4066-8863-b3a80fbe7d0e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\map_00.tmx.meta": {
+      "time": 1705816097024.8171
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\map_00.tmx": {
+      "time": 1705809994926.3132,
+      "uuid": "bb5d7ab7-c071-4c8f-8db4-28a5ddf3461d"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\scene\\game.scene.meta": {
+      "time": 1705750068376.0415
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\scene\\game.scene": {
+      "time": 1705831277681.541,
+      "uuid": "55ac48c2-8039-4acc-a962-dd22f33291b7"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script.meta": {
+      "time": 1705816607938.8115
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script": {
+      "time": 1705831269924.69,
+      "uuid": "02764002-a6d8-41ca-bffe-03bb04d1e73e"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script\\hero.ts.meta": {
+      "time": 1705816661136.6692
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script\\hero.ts": {
+      "time": 1705828174328.3977,
+      "uuid": "68496676-a301-41dd-a8c3-656f7efa7d00"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script\\game.ts.meta": {
+      "time": 1705821874708.5105
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script\\game.ts": {
+      "time": 1705829181967.1326,
+      "uuid": "8e7bd694-0338-4c6a-8747-cbf52d500f61"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\map.prefab.meta": {
+      "time": 1705830240132.2266
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\map.prefab": {
+      "time": 1705830240131.23,
+      "uuid": "f40ea346-7129-44cf-a7e1-2bd8f4f8c350"
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script\\gameController.ts.meta": {
+      "time": 1705831269925.687
+    },
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script\\gameController.ts": {
+      "time": 1705831269923.6929,
+      "uuid": "4e276fac-aa66-43c6-b93d-aa655898c3d3"
+    }
+  },
+  "missing": {
+    "356526b5-404e-478c-a487-91178f6a2a2b": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui",
+      "time": 1705742752501.231,
+      "removeTime": 1705742832718
+    },
+    "8781730a-e773-4651-b1a1-f4a130826faf": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Move02.png",
+      "time": 1705742660510.2217,
+      "removeTime": 1705742832718
+    },
+    "e41e9cba-f245-4b64-8e91-8e5e54b739dd": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Move01.png",
+      "time": 1705742660497.321,
+      "removeTime": 1705742832718
+    },
+    "60acbf5c-7256-4e93-ac73-7d40525aacd7": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\JDT.png",
+      "time": 1705742660472.5356,
+      "removeTime": 1705742832718
+    },
+    "f929342d-1ec9-4931-ba0c-5509ec2accd4": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\JDT_BG.png",
+      "time": 1705742660484.886,
+      "removeTime": 1705742832718
+    },
+    "653bfb0c-8c1a-4c20-897b-1ef0326e5d68": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Btn.png",
+      "time": 1705742660446.066,
+      "removeTime": 1705742832718
+    },
+    "929c68ca-2a5e-4a2a-a9c6-acbe53b31a6e": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\Icon_ZZ.png",
+      "time": 1705742660459.3828,
+      "removeTime": 1705742832718
+    },
+    "cc852c8a-c61f-43a2-b04d-b02b80a9a40e": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor",
+      "time": 1705743150379.9756,
+      "removeTime": 1705743161418
+    },
+    "8e98e2a1-deef-4bd6-8154-9dcc48c93cd7": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sEnemy_strip7",
+      "time": 1705743150381.7874,
+      "removeTime": 1705743161418
+    },
+    "261bc634-af9d-4a38-a791-f678343444e1": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerIdle_strip4",
+      "time": 1705743150382.829,
+      "removeTime": 1705743161418
+    },
+    "70eb977a-f3d5-45bf-afca-10053e8ed904": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerRun_strip7",
+      "time": 1705743150384.865,
+      "removeTime": 1705743161418
+    },
+    "b008eed6-806d-401f-b0e8-d2697e10c174": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sEnemy_strip7\\sEnemy_strip7_0.png",
+      "time": 1705742659928.8962,
+      "removeTime": 1705743161418
+    },
+    "f4068d9b-1b87-4bbf-9a4e-4ef9b0c3e2c1": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sEnemy_strip7\\sEnemy_strip7_1.png",
+      "time": 1705742659940.8665,
+      "removeTime": 1705743161418
+    },
+    "771bb568-e415-4ec0-a5c6-3af41c1d04d9": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sEnemy_strip7\\sEnemy_strip7_2.png",
+      "time": 1705742659952.8179,
+      "removeTime": 1705743161418
+    },
+    "2634d122-dbe0-4c4c-b4df-32567971ff2e": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sEnemy_strip7\\sEnemy_strip7_3.png",
+      "time": 1705742659964.8347,
+      "removeTime": 1705743161418
+    },
+    "e1055073-8145-4712-936c-f53bcaee5c52": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sEnemy_strip7\\sEnemy_strip7_4.png",
+      "time": 1705742659975.7405,
+      "removeTime": 1705743161418
+    },
+    "010cac19-f610-43ab-a905-f1c7ec060965": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sEnemy_strip7\\sEnemy_strip7_5.png",
+      "time": 1705742659987.985,
+      "removeTime": 1705743161418
+    },
+    "b190b7c4-8fc6-488c-a161-3f948b6bb5e3": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sEnemy_strip7\\sEnemy_strip7_6.png",
+      "time": 1705742659998.974,
+      "removeTime": 1705743161418
+    },
+    "7ac1de72-6387-4b20-8af1-89452fd858dd": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_0.png",
+      "time": 1705742660013.8818,
+      "removeTime": 1705743161418
+    },
+    "e8085bdd-7002-4249-8d27-4f47296996b6": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_1.png",
+      "time": 1705742660024.5613,
+      "removeTime": 1705743161418
+    },
+    "3e79f1e2-8d26-40a7-8af6-8df452c72a8d": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_2.png",
+      "time": 1705742660037.1995,
+      "removeTime": 1705743161418
+    },
+    "2ccda1a2-64b6-4566-bfa2-6a34c0caa214": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerIdle_strip4\\sPlayerIdle_strip4_3.png",
+      "time": 1705742660049.1675,
+      "removeTime": 1705743161418
+    },
+    "ddc14d0e-4f62-4704-9af6-2df80b1c94aa": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_0.png",
+      "time": 1705742660065.113,
+      "removeTime": 1705743161418
+    },
+    "15c29afe-1c6f-4702-88a9-d7c7aedded3a": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_1.png",
+      "time": 1705742660077.0867,
+      "removeTime": 1705743161418
+    },
+    "56d0991f-6420-4741-87ae-db82b14b277d": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_2.png",
+      "time": 1705742660088.8542,
+      "removeTime": 1705743161418
+    },
+    "ef6e141e-de04-46d5-b22c-4d2b84f613a9": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_3.png",
+      "time": 1705742660100.1853,
+      "removeTime": 1705743161418
+    },
+    "3ee0c6e8-bba9-431c-a538-2690d0d65966": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_4.png",
+      "time": 1705742660111.834,
+      "removeTime": 1705743161418
+    },
+    "04a6338e-09f8-41bb-b5d9-b3fdbf484169": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_5.png",
+      "time": 1705742660124.8513,
+      "removeTime": 1705743161418
+    },
+    "6504c943-3f1e-4798-ba89-7cced89448ac": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\actor\\sPlayerRun_strip7\\sPlayerRun_strip7_6.png",
+      "time": 1705742660136.7612,
+      "removeTime": 1705743161418
+    },
+    "b8bef17a-756e-4485-9172-16191b37d98f": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\animation",
+      "time": 1705743150359.0422,
+      "removeTime": 1705743161537
+    },
+    "c3ba8d58-1a6e-48fc-9779-396b85f497c7": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\animation\\enemy",
+      "time": 1705743150360.0378,
+      "removeTime": 1705743161537
+    },
+    "0ede0994-c965-4b2e-add9-d1485c4a21e9": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\animation\\player",
+      "time": 1705743150361.035,
+      "removeTime": 1705743161537
+    },
+    "c52743dc-0a91-4a97-ad2f-6f20ce9d4b73": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\animation\\enemy\\die.anim",
+      "time": 1705742660163.6606,
+      "removeTime": 1705743161537
+    },
+    "971d643f-1035-4cb6-8edf-12fdab156067": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\animation\\enemy\\run.anim",
+      "time": 1705742660175.6206,
+      "removeTime": 1705743161537
+    },
+    "a0788be4-0757-4751-bf5c-3af777a3ef64": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\animation\\player\\die.anim",
+      "time": 1705742660189.4185,
+      "removeTime": 1705743161537
+    },
+    "d4d93048-e241-42b6-b294-aa59a5132f44": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\animation\\player\\idle.anim",
+      "time": 1705742660199.3848,
+      "removeTime": 1705743161537
+    },
+    "3edd2a50-3943-4c2c-8f3b-ea79c401c411": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\animation\\player\\run.anim",
+      "time": 1705742660209.9944,
+      "removeTime": 1705743161537
+    },
+    "75d45c9c-2ff8-4c95-a390-64235a2883a4": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\crosshair",
+      "time": 1705743150351.0686,
+      "removeTime": 1705743161562
+    },
+    "693deca4-d827-43e9-af4d-d8c19bafbde5": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\crosshair\\crosshair091.png",
+      "time": 1705742660224.8213,
+      "removeTime": 1705743161562
+    },
+    "2a5fb605-0850-4cbf-b842-fba8565bb449": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\materials",
+      "time": 1705743150357.0488,
+      "removeTime": 1705743161607
+    },
+    "767651a4-e259-430b-bb70-c417bdb7cb10": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\materials\\sprite-with-flip.effect",
+      "time": 1705742660251.8538,
+      "removeTime": 1705743161607
+    },
+    "df5d4ea2-4e10-4450-8693-c150aa5bf379": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\materials\\enemy-material.mtl",
+      "time": 1705742660238.9856,
+      "removeTime": 1705743161607
+    },
+    "64232a71-3ae9-4912-b114-5cdc2da22eed": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\shaders",
+      "time": 1705743150355.055,
+      "removeTime": 1705743161612
+    },
+    "91648bc6-4b4d-4561-ab57-5bf12be00243": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\shaders\\builtin-sprite-with-tile.effect",
+      "time": 1705742660267.0383,
+      "removeTime": 1705743161612
+    },
+    "ec0b0f09-c0e7-4e12-905f-8aed9e97c1a2": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets",
+      "time": 1705743150372.0027,
+      "removeTime": 1705743161886
+    },
+    "2efd8d35-cdce-4fe9-b327-a413363533e6": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\aBullet.wav",
+      "time": 1705742660284.8271,
+      "removeTime": 1705743161886
+    },
+    "f7c8090e-ff35-454f-9ef4-86a225829f32": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\aDeath.wav",
+      "time": 1705742660309.469,
+      "removeTime": 1705743161886
+    },
+    "59c9e8f5-d4e4-4d51-a16e-5171af7942e5": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sBg.png",
+      "time": 1705742660323.0718,
+      "removeTime": 1705743161886
+    },
+    "919fa64e-fc8f-4374-b6ef-95117d5af533": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sBullet.png",
+      "time": 1705742660335.5935,
+      "removeTime": 1705743161886
+    },
+    "f41479b9-ca4c-48b7-9bc3-2037e6948289": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sEnemyDead.png",
+      "time": 1705742660347.7695,
+      "removeTime": 1705743161886
+    },
+    "e453f203-b314-42c3-8d2a-5ef2b6d99ece": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sEnemy_strip7.png",
+      "time": 1705742660363.3862,
+      "removeTime": 1705743161886
+    },
+    "2a531148-4b30-45c7-aeca-5b3dbd90a978": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sGun.png",
+      "time": 1705742660376.3425,
+      "removeTime": 1705743161886
+    },
+    "522da280-b7aa-4540-a876-6b662e7ffb6d": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sMap.png",
+      "time": 1705742660390.8306,
+      "removeTime": 1705743161886
+    },
+    "68d523c4-036c-4c7a-9bed-af5bc56c571b": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sPlayerIdle_strip4.png",
+      "time": 1705742660404.1746,
+      "removeTime": 1705743161886
+    },
+    "1d2c5087-ffd9-4aad-9a85-a33b5c6a4cbb": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sPlayerRun_strip7.png",
+      "time": 1705742660417.137,
+      "removeTime": 1705743161886
+    },
+    "2f44c9f9-97c5-4559-9b49-c129adb1133c": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\topdown_shooter_assets\\sWall.png",
+      "time": 1705742660430.137,
+      "removeTime": 1705743161886
+    },
+    "87260203-6c4b-48b9-8f1d-79efde2c77ea": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui",
+      "time": 1705743150375.0044,
+      "removeTime": 1705743162003
+    },
+    "65b21510-5219-40eb-97ce-d75edeb494f4": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\controls",
+      "time": 1705743150376.985,
+      "removeTime": 1705743162003
+    },
+    "7999d4bf-3036-42a8-b93f-a5268a05bd53": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\material",
+      "time": 1705743150376.985,
+      "removeTime": 1705743162004
+    },
+    "8746f66f-9d02-4f38-a930-5d5f682bbc37": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\Btn.png",
+      "time": 1705742660446.066,
+      "removeTime": 1705743162004
+    },
+    "c745d5b2-8d4b-4dd1-86fe-4528e268b3ae": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\Icon_ZZ.png",
+      "time": 1705742660459.3828,
+      "removeTime": 1705743162004
+    },
+    "c83e4d0d-b783-432f-bdea-72b8c2fd4815": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\JDT.png",
+      "time": 1705742660472.5356,
+      "removeTime": 1705743162004
+    },
+    "456dd663-d510-4fa4-912e-df6ab03ff6e1": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\JDT_BG.png",
+      "time": 1705742660484.886,
+      "removeTime": 1705743162004
+    },
+    "08e94f59-ca4f-4823-9794-71b95a9758ff": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\Move01.png",
+      "time": 1705742660497.321,
+      "removeTime": 1705743162004
+    },
+    "a11c7c0a-b8a2-47c4-9023-2060ed916562": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\Move02.png",
+      "time": 1705742660510.2217,
+      "removeTime": 1705743162004
+    },
+    "de94a715-bf1f-4c82-a95a-b011bbbe1ce1": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\controls\\A.png",
+      "time": 1705742660537.1914,
+      "removeTime": 1705743162004
+    },
+    "646dc1cd-b6c6-44b3-937d-f8cf2f85f0fc": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\controls\\B.png",
+      "time": 1705742660549.1401,
+      "removeTime": 1705743162004
+    },
+    "31bcf19f-8763-4606-861f-220ba8cc46e4": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\controls\\X.png",
+      "time": 1705742660562.094,
+      "removeTime": 1705743162004
+    },
+    "30dd8b34-374e-426f-bc4d-0f958d68035f": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\controls\\Y.png",
+      "time": 1705742660575.0425,
+      "removeTime": 1705743162004
+    },
+    "1075ed23-c019-4abc-aa06-014fd4d74d6b": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\material\\hp-bg.mtl",
+      "time": 1705742660589.9941,
+      "removeTime": 1705743162004
+    },
+    "49901938-8b69-4d21-8a86-404ba5673301": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\material\\hp.mtl",
+      "time": 1705742660600.9578,
+      "removeTime": 1705743162004
+    },
+    "770a3a3c-bc5e-4eba-bd30-ebbbaa271190": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resource",
+      "time": 1705743930514.768,
+      "removeTime": 1705743949611
+    },
+    "d9b09275-a022-43f4-8104-8042914d3f29": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\per",
+      "time": 1705743980174.177,
+      "removeTime": 1705743991566
+    },
+    "6d1fdbff-e426-4dfa-9de3-a2400d956ebd": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Player.prefab",
+      "time": 1705742660675.885,
+      "removeTime": 1705744276025
+    },
+    "4da64e4a-c434-4c8d-9f10-97af9dd7a1a9": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\run.anim",
+      "time": 1705742660209.9944,
+      "removeTime": 1705745754398
+    },
+    "aca143b5-d73e-4eab-b2a9-7f09631f8049": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\die.anim",
+      "time": 1705742660189.4185,
+      "removeTime": 1705745754429
+    },
+    "cf85acd4-b766-4b3f-ac2d-2f0e6d363b2a": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\idle.anim",
+      "time": 1705745722789.0095,
+      "removeTime": 1705745754429
+    },
+    "0a8fc854-707d-4b5e-a3ff-f79d9264979c": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\die.anim",
+      "time": 1705742660189.4185,
+      "removeTime": 1705745818563
+    },
+    "94d65263-5827-4fd7-91a8-51a952252ce4": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\idle.anim",
+      "time": 1705742660199.3848,
+      "removeTime": 1705745818572
+    },
+    "f170bd8d-9a81-43d7-93e8-f1452a6834a3": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\run.anim",
+      "time": 1705742660209.9944,
+      "removeTime": 1705745818592
+    },
+    "1e9025fa-2a5b-4810-8ed4-4733a8027115": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy\\die.anim",
+      "time": 1705742660163.6606,
+      "removeTime": 1705745823943
+    },
+    "393886fd-1b26-4371-8fb9-3c772665a04e": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy\\run.anim",
+      "time": 1705742660175.6206,
+      "removeTime": 1705745823946
+    },
+    "b1107bca-6953-4ca1-ac13-462aeb3406c1": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\idle.anim",
+      "time": 1705745841653.7664,
+      "removeTime": 1705745932770
+    },
+    "9f2d89b8-b57b-4a7d-8ebd-8d1f28095619": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\player\\dea.anim",
+      "time": 1705746460251.4653,
+      "removeTime": 1705746469135
+    },
+    "7158156d-21e4-40c7-8a8e-851b5c479a6e": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets",
+      "time": 1705743168337.1296,
+      "removeTime": 1705746970585
+    },
+    "8cfc7d0e-89d5-4f22-9238-4a5999725bff": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\aBullet.wav",
+      "time": 1705742660284.8271,
+      "removeTime": 1705746970585
+    },
+    "cc90009a-9d69-4365-b9bc-82c8bd6a0ab4": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\aDeath.wav",
+      "time": 1705742660309.469,
+      "removeTime": 1705746970586
+    },
+    "f4b80fef-ae6b-4fdf-aa0f-1cc70a3d5875": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sBg.png",
+      "time": 1705742660323.0718,
+      "removeTime": 1705746970586
+    },
+    "5257411f-a9b2-4a29-aec7-6b7b7d8a81f4": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sBullet.png",
+      "time": 1705742660335.5935,
+      "removeTime": 1705746970586
+    },
+    "5024ffa1-7666-444c-8226-a40ff4d424a2": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sEnemyDead.png",
+      "time": 1705742660347.7695,
+      "removeTime": 1705746970586
+    },
+    "88e8174c-6479-4099-8c6c-250ccac821a4": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sEnemy_strip7.png",
+      "time": 1705742660363.3862,
+      "removeTime": 1705746970586
+    },
+    "005c46f8-2ef3-4242-a0f3-892f1e47b38b": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sGun.png",
+      "time": 1705742660376.3425,
+      "removeTime": 1705746970586
+    },
+    "a2c1927e-b5ce-4ce8-aa20-60d5dc168300": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sMap.png",
+      "time": 1705742660390.8306,
+      "removeTime": 1705746970587
+    },
+    "e51cf45d-ed5c-41e5-b9a1-be04ea753b0b": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sPlayerIdle_strip4.png",
+      "time": 1705742660404.1746,
+      "removeTime": 1705746970587
+    },
+    "6b6fdfea-7847-44c1-8d4f-bcf2c7458db0": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sPlayerRun_strip7.png",
+      "time": 1705742660417.137,
+      "removeTime": 1705746970587
+    },
+    "74e7cba2-4480-4048-9a42-e862c12454e8": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\topdown_shooter_assets\\sWall.png",
+      "time": 1705742660430.137,
+      "removeTime": 1705746970587
+    },
+    "cb47b6fe-7e93-4830-b751-6cadfd28bf55": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Enemy.prefab",
+      "time": 1680919706000,
+      "removeTime": 1705747654924
+    },
+    "eaf2bebb-a5c9-4924-b4b8-af27c6c71c7f": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy\\idle.anim",
+      "time": 1705747887590.1377,
+      "removeTime": 1705747913070
+    },
+    "5e406de2-cca9-4306-9a4c-1422143d039e": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy\\run.anim",
+      "time": 1705747989903.058,
+      "removeTime": 1705748509515
+    },
+    "a3db7ee6-810b-4600-9cde-9fee85dc5981": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\animation\\enemy\\run.anim",
+      "time": 1705749127510.0188,
+      "removeTime": 1705749171054
+    },
+    "7edf7ce7-60cb-4637-bb42-2df903756fef": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Gun.prefab",
+      "time": 1705747245429.5723,
+      "removeTime": 1705749656492
+    },
+    "bc455aa8-36ad-4b7f-9158-a7c3c327f611": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\resources\\actor\\prefab\\Player.prefab",
+      "time": 1705744765762.8816,
+      "removeTime": 1705749656510
+    },
+    "55ac48c2-8039-4acc-a962-dd22f33291b7": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\game.scene",
+      "time": 1705816461393.5269,
+      "removeTime": 1705816572759
+    },
+    "f40ea346-7129-44cf-a7e1-2bd8f4f8c350": {
+      "path": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\script\\map.prefab",
+      "time": 1705830240131.23,
+      "removeTime": 1705830245072
+    }
+  }
+}

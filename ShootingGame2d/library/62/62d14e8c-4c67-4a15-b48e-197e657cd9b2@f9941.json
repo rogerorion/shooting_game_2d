@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sPlayerRun_strip7_6",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 7,
+      "width": 27,
+      "height": 28
+    },
+    "offset": {
+      "x": -0.5,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 40,
+      "height": 40
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -13.5,
+        -14,
+        0,
+        13.5,
+        -14,
+        0,
+        -13.5,
+        14,
+        0,
+        13.5,
+        14,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        6,
+        33,
+        33,
+        33,
+        6,
+        5,
+        33,
+        5
+      ],
+      "nuv": [
+        0.15,
+        0.125,
+        0.825,
+        0.125,
+        0.15,
+        0.825,
+        0.825,
+        0.825
+      ],
+      "minPos": {
+        "x": -13.5,
+        "y": -14,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 13.5,
+        "y": 14,
+        "z": 0
+      }
+    },
+    "texture": "62d14e8c-4c67-4a15-b48e-197e657cd9b2@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

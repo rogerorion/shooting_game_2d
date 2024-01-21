@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sEnemyDead",
+    "atlas": "",
+    "rect": {
+      "x": 5,
+      "y": 12,
+      "width": 31,
+      "height": 23
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -3.5
+    },
+    "originalSize": {
+      "width": 40,
+      "height": 40
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -15.5,
+        -11.5,
+        0,
+        15.5,
+        -11.5,
+        0,
+        -15.5,
+        11.5,
+        0,
+        15.5,
+        11.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        5,
+        28,
+        36,
+        28,
+        5,
+        5,
+        36,
+        5
+      ],
+      "nuv": [
+        0.125,
+        0.125,
+        0.9,
+        0.125,
+        0.125,
+        0.7,
+        0.9,
+        0.7
+      ],
+      "minPos": {
+        "x": -15.5,
+        "y": -11.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 15.5,
+        "y": 11.5,
+        "z": 0
+      }
+    },
+    "texture": "5024ffa1-7666-444c-8226-a40ff4d424a2@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

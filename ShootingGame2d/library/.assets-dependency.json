@@ -1,0 +1,66 @@
+{
+  "path": {
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\shaders\\builtin-sprite-with-tile.effect": [
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tiling-offset.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\tiling-offset.chunk"
+    ],
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\materials\\sprite-with-flip.effect": [
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "D:\\CocosDashboard\\resources\\editor\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tiling-offset.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\chunks\\tiling-offset.chunk"
+    ],
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\hero.plist": [
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\hero.png"
+    ],
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\map_00.tmx": [
+      "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\map\\Dungeon_Tileset.png"
+    ]
+  },
+  "uuid": {
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\materials\\enemy-material.mtl": [
+      "c5a5c94b-ee69-4c17-bd15-e705a1c1986e"
+    ],
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\material\\hp-bg.mtl": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ],
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\ui\\material\\hp.mtl": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ],
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\materials\\enemy-material.mtl": [
+      "c5a5c94b-ee69-4c17-bd15-e705a1c1986e"
+    ],
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\material\\hp-bg.mtl": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ],
+    "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\res\\ui\\material\\hp.mtl": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ]
+  }
+}

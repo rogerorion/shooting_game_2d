@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sPlayerIdle_strip4_0",
+    "atlas": "",
+    "rect": {
+      "x": 8,
+      "y": 5,
+      "width": 23,
+      "height": 30
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 40,
+      "height": 40
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -11.5,
+        -15,
+        0,
+        11.5,
+        -15,
+        0,
+        -11.5,
+        15,
+        0,
+        11.5,
+        15,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        8,
+        35,
+        31,
+        35,
+        8,
+        5,
+        31,
+        5
+      ],
+      "nuv": [
+        0.2,
+        0.125,
+        0.775,
+        0.125,
+        0.2,
+        0.875,
+        0.775,
+        0.875
+      ],
+      "minPos": {
+        "x": -11.5,
+        "y": -15,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 11.5,
+        "y": 15,
+        "z": 0
+      }
+    },
+    "texture": "c4c1394c-dd75-4364-a020-ea6753b4a26f@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

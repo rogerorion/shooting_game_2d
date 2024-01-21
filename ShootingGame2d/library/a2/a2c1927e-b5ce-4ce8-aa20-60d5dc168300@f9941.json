@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sMap",
+    "atlas": "",
+    "rect": {
+      "x": 16,
+      "y": 16,
+      "width": 288,
+      "height": 288
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 320,
+      "height": 320
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -144,
+        -144,
+        0,
+        144,
+        -144,
+        0,
+        -144,
+        144,
+        0,
+        144,
+        144,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        16,
+        304,
+        304,
+        304,
+        16,
+        16,
+        304,
+        16
+      ],
+      "nuv": [
+        0.05,
+        0.05,
+        0.95,
+        0.05,
+        0.05,
+        0.95,
+        0.95,
+        0.95
+      ],
+      "minPos": {
+        "x": -144,
+        "y": -144,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 144,
+        "y": 144,
+        "z": 0
+      }
+    },
+    "texture": "a2c1927e-b5ce-4ce8-aa20-60d5dc168300@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

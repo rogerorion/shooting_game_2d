@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "12th Gen Intel(R) Core(TM) i5-12500H",
+        "version": "Windows 10 Home China"
+    },
+    "sceneListMap": {
+        "55ac48c2-8039-4acc-a962-dd22f33291b7": "D:\\indie_games\\project1\\shooting_game_2d\\ShootingGame2d\\assets\\scene\\game.scene"
+    },
+    "deviceMd5": "135834a120d2d821959781d69a0ffdaf"
+}
